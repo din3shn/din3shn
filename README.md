@@ -5,7 +5,7 @@ I'm a Data Analyst with a passion for turning data into actionable insights. I'm
 In this repository, you'll find a collection of data analytics projects that I've worked on. These projects showcase my ability to extract, clean, and analyze data to answer business questions and drive decision making. Data used in the projects was gathered from multiple sources like Google, Kaggle etc. Some of the datasets were provided by instructors.
 Feel free to explore my projects and provide feedback. I'm open to collaboration and learning opportunities.
 
-#### 📁 [Portfolio](https://github.com/din3shn/DA_Portfolio_Proj)
+### 📁 [Portfolio](https://github.com/din3shn/DA_Portfolio_Proj)
 
   ### 🧰 Skills
 
