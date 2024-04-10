@@ -1,4 +1,4 @@
-# Welcome to my Github Profile. 👋
+# Welcome 👋
 
    ### **Hello,  I'm Dinesh**
 I'm a Data Analyst with a passion for turning data into actionable insights. I'm skilled in SQL, Excel, Power BI, and Tableau. Here, you'll find projects utilizing various tools to clean, analyze, and visualize data. Looking for entry-level opporunities that require my skills and would help me learn and grow.
